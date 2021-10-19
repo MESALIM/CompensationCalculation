@@ -1,0 +1,59 @@
+{
+  "name": "Abanti_Clarity Reconciliation",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "BalaReva.EasyExcel.Activities": "[29.0.0]",
+    "BalaReva.Excel.Activities": "[2021.0.0]",
+    "UiPath.Excel.Activities": "[2.11.1-preview]",
+    "UiPath.Mail.Activities": "[1.11.2-preview]",
+    "UiPath.System.Activities": "[21.10.0-preview]",
+    "UiPath.UIAutomation.Activities": "[21.10.0-preview]",
+    "UiPath.Word.Activities": "[1.7.1-preview]",
+    "UiPathTeam.Dates.Activities": "[1.1.0]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.10.4.0",
+  "projectVersion": "1.0.17",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "81aecbcb-a01d-457e-b564-7fe92309840e",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
