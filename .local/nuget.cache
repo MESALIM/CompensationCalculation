@@ -172,8 +172,8 @@
       "code": "NU1101",
       "level": "Error",
       "filePath": "C:\\Users\\MESALIM\\OneDrive - Capgemini\\Documents\\UiPath\\Abanti_Clarity Reconciliation\\.local",
-      "message": "Unable to find package MicrosoftOfficeCore. No packages exist with this id in source(s): Connect, https://gallery.uipath.com/api/v2, https://www.myget.org/F/workflow/, https://www.myget.org/F/workflow/, Official",
-      "libraryId": "MicrosoftOfficeCore",
+      "message": "Unable to find package Microsoft.Office.Interop.Excel. No packages exist with this id in source(s): Connect, https://gallery.uipath.com/api/v2, https://www.myget.org/F/workflow/, https://www.myget.org/F/workflow/, Official",
+      "libraryId": "Microsoft.Office.Interop.Excel",
       "targetGraphs": [
         ".NETFramework,Version=v4.6.1",
         ".NETFramework,Version=v4.6.1/win7-x86"
@@ -183,8 +183,8 @@
       "code": "NU1101",
       "level": "Error",
       "filePath": "C:\\Users\\MESALIM\\OneDrive - Capgemini\\Documents\\UiPath\\Abanti_Clarity Reconciliation\\.local",
-      "message": "Unable to find package Microsoft.Office.Interop.Excel. No packages exist with this id in source(s): Connect, https://gallery.uipath.com/api/v2, https://www.myget.org/F/workflow/, https://www.myget.org/F/workflow/, Official",
-      "libraryId": "Microsoft.Office.Interop.Excel",
+      "message": "Unable to find package MicrosoftOfficeCore. No packages exist with this id in source(s): Connect, https://gallery.uipath.com/api/v2, https://www.myget.org/F/workflow/, https://www.myget.org/F/workflow/, Official",
+      "libraryId": "MicrosoftOfficeCore",
       "targetGraphs": [
         ".NETFramework,Version=v4.6.1",
         ".NETFramework,Version=v4.6.1/win7-x86"
